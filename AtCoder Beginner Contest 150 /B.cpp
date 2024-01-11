@@ -1,3 +1,7 @@
+// B - Count ABC
+// https://atcoder.jp/contests/abc150/tasks/abc150_b
+// Authored by CarryKim
+
 #include<bits/stdc++.h>
 using namespace std;
 
